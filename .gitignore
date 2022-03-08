@@ -1,1 +1,9 @@
+.idea
+.DS_Store*
+*.zip
+app/wp-config.php
+app/.htaccess
+.docker.env
+docker-compose.yml
 
+/vendor/
